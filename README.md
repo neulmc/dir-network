@@ -1,4 +1,4 @@
-# Dirichlet network for microstructure segmentatio
+# Dirichlet network for microstructure segmentation
 This is the source code of "Effective Microstructure Segmentation and Measurement Method Based on Uncertainty Estimation for Aluminum Alloy Metallographic Images". 
 
 ### Introduction:
