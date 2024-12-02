@@ -37,7 +37,7 @@ The metallographic dataset used in this study comes from an alloy manufacturing 
 For research purposes, the complete dataset can be requested from the author by emailing limingchun_cn@qq.com([Mingchun Li](https://orcid.org/0000-0001-7780-3213)) or liuyang999@pku.edu.cn (Yang Liu).
 
 
-### Results on BSDS Dataset
+### Results on Aluminum alloy Dataset
 | Method | mDice  | AUROC(Max) |
 |:-----|:------:|:-----:| 
 | Baseline (UNet) | 0.7908 | 0.9633 |
