@@ -34,7 +34,7 @@ During and after training, the predictions are saved and uncertainty maps are co
 
 ### Aluminum alloy metallographic image dataset
 The metallographic dataset used in this study comes from an alloy manufacturing company. 
-For research purposes, the complete dataset can be requested from the author by emailing limingchun_cn@qq.com([Mingchun Li](https://orcid.org/0000-0001-7780-3213)) or liuyang999@pku.edu.cn (Yang Liu).
+For research purposes, the complete dataset can be requested from the author by emailing limingchun_cn@qq.com ([Mingchun Li](https://orcid.org/0000-0001-7780-3213)) or liuyang999@pku.edu.cn (Yang Liu).
 
 
 ### Results on Aluminum alloy Dataset
