@@ -38,7 +38,7 @@ For research purposes, the complete dataset can be requested from the author by 
 
 
 ### Results on Aluminum alloy Dataset
-| Method | mDice  | AUROC(Max) |
+| Method | mDice  | AUROC(MaxP) |
 |:-----|:------:|:-----:| 
 | Baseline (UNet) | 0.7908 | 0.9633 |
 | Deep ensemble | 0.8037 | 0.9649  |
